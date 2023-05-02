@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+.holder {
+	width : 600px;
+	height : 600px;
+	background-color : skyblue;
+	display : flex;
+	flex-wrap : wrap;
+	justify-content : space-evenly;
+}
+.d1 {
+	height : 200px;
+	width :180px;
+	background-color : pink;
+	border : 2px solid black;
+}
